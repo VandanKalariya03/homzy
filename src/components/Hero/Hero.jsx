@@ -1,4 +1,4 @@
-simport "./Hero.css";
+import "./Hero.css";
 import { HiLocationMarker } from "react-icons/hi";
 import CountUp from "react-countup";
 import { motion } from "framer-motion";
@@ -18,9 +18,9 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Raj <br>
+              Discover <br />
               Most Suitable
-              <br> Property
+              <br /> Property
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
