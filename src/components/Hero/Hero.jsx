@@ -1,4 +1,4 @@
-import "./Hero.css";
+simport "./Hero.css";
 import { HiLocationMarker } from "react-icons/hi";
 import CountUp from "react-countup";
 import { motion } from "framer-motion";
@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Discover <br />
+              Inventyv <br />
               Most Suitable
               <br /> Property
             </motion.h1>
