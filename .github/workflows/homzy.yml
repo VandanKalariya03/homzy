@@ -46,7 +46,7 @@ jobs:
 
     - name: Publish message to Pub/Sub
       run: |
-        gcloud pubsub topics publish  ${{ secrets.TOPIC_NAME}} --message='{ "name":"raj"}'
+        gcloud pubsub topics publish  ${{ secrets.TOPIC_NAME}} --message='{ "name":"cicd"}'
 
     
 
