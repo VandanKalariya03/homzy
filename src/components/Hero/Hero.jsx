@@ -18,9 +18,9 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Inventyv <br />
+              Raj <br>
               Most Suitable
-              <br /> Property
+              <br> Property
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
