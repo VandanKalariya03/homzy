@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Discover <br />
+              Disco <br />
               Most Suitable
               <br /> Property
             </motion.h1>
