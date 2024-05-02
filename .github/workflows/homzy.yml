@@ -61,7 +61,7 @@ jobs:
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v2
       with:
-          token: ${{ secrets.ARGOCD_TOKEN }}
+          token: ${{ secrets.ARGOCD_PAT }}
           repository: Raj1208/deployment
           event-type: image-updated
   
