@@ -1,18 +1,18 @@
 name: CI for Homzy
 
 on:
- workflow_dispatch:
-    inputs:
-      run_workflow:
-         description: 'Select an option'
-         required: true
-         type: choice
-         options:
-           - "true"
-           - "false"
-  # push:
-  #  branches:
-  #    - main
+ # workflow_dispatch:
+ #    inputs:
+ #      run_workflow:
+ #         description: 'Select an option'
+ #         required: true
+ #         type: choice
+ #         options:
+ #           - "true"
+ #           - "false"
+  push:
+   branches:
+     - main
  #dsfkjsdk
 
            
