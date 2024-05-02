@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Inventyv <br />
+              DevOps <br />
               Most Suitable
               <br /> Property
             </motion.h1>
