@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Charusat <br />
+              Inventyv <br />
               Most Suitable
               <br /> Property
             </motion.h1>
