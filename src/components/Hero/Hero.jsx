@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              homzy11 <br />
+              vandan <br />
               Most Suitable
               <br /> Property
             </motion.h1>
