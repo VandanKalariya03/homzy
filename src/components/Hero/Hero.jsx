@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Charusat india <br />
+              Inventyv india <br />
               Most Suitable
               <br /> Property
             </motion.h1>
