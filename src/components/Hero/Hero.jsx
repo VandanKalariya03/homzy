@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Synoptek <br />
+              Synoptek india <br />
               Most Suitable
               <br /> Property
             </motion.h1>
