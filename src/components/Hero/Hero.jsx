@@ -18,7 +18,7 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              vandan <br />
+              Synoptek <br />
               Most Suitable
               <br /> Property
             </motion.h1>
